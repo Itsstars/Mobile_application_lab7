@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039905781301",
+    "project_id": "private-album-f358d",
+    "storage_bucket": "private-album-f358d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039905781301:android:846fbcf23835f05617e37c",
+        "android_client_info": {
+          "package_name": "com.najma.private_photo_album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039905781301-t49i3eva0sear9tmu9g2nrpj5rgqtmnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBkac7fXet6nNs9VNDjbMTwr0TMeagQ2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039905781301-t49i3eva0sear9tmu9g2nrpj5rgqtmnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
